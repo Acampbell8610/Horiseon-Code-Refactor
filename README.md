@@ -5,7 +5,7 @@
 
 ## Installation 
     
-    Use (https://github.com/Acampbell8610/Horiseon-webpage.git) to access git hib
+    Use (https://github.com/Acampbell8610/Horiseon-webpage.git) to access git hub
 
     on git bash type "git clone https://github.com/Acampbell8610/Horiseon-webpage.git" to extract file.
 ## Usage
@@ -14,13 +14,13 @@ There are 3 links in the header to navigate the page.
 -Online Reputation Management
 -Social Media Marketing
 Each section describes a part of the business.
-![screenshot](assets/inages/Horiseon.png)
+![screenshot](assets/images/Horiseon.png)
 
 ## Credits
 -https://github.com/coding-boot-camp/urban-octo-telegram
 -https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 -Awesome Screenshot
--Choosealicense.com/licenses/gpl-3.0/#
+-https://Choosealicense.com/licenses/gpl-3.0/#
 
 ## License
                     GNU GENERAL PUBLIC LICENSE
