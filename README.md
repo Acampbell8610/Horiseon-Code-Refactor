@@ -14,7 +14,7 @@ There are 3 links in the header to navigate the page.
 -Online Reputation Management
 -Social Media Marketing
 Each section describes a part of the business.
-![screenshot](./assets/images/Horiseon.png)
+-[![screenshot](./assets/images/Horiseon.png)](file:///C:/Users/acamp/Challenge%201/Horiseon-webpage/Develop/index.html)
 
 
 ## Credits
