@@ -14,7 +14,7 @@ There are 3 links in the header to navigate the page.
 -Online Reputation Management
 -Social Media Marketing
 Each section describes a part of the business.
- ![screenshot](./assets/images/Horiseon.png)
+ ![screenshot](./Develop/assets/images/Horiseon.png)
 
 ## Credits
 -https://github.com/coding-boot-camp/urban-octo-telegram
