@@ -15,10 +15,7 @@ There are 3 links in the header to navigate the page.
 -Social Media Marketing
 Each section describes a part of the business.
 <<<<<<< HEAD
-![Screenshot](https://user-images.githubusercontent.com/88688009/146665658-4219cc97-7336-4423-98c3-520df8771ae6.png)
-=======
-![screenshot](https://user-images.githubusercontent.com/88688009/146665658-4219cc97-7336-4423-98c3-520df8771ae6.png)
->>>>>>> 8890df004095df79dfbf5cc2d1b163b662bcb906
+![Screenshot]
 
 
 ## Credits
