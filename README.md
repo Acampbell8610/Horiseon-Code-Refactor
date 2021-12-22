@@ -15,8 +15,6 @@ There are 3 links in the header to navigate the page.
 -Social Media Marketing
 Each section describes a part of the business.
 
-[Screenshot](.assets/images/Horiseon.png)
-
 
 ## Credits
 -https://github.com/coding-boot-camp/urban-octo-telegram
