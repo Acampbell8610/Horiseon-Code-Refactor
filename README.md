@@ -13,7 +13,8 @@ There are 3 links in the header to navigate the page.
 - Search Engine Optimization
 - Online Reputation Management
 - Social Media Marketing
-- Each section describes a part of the business.
+
+ Each section describes a part of the business.
 
  ![screenshot](./Develop/assets/images/Horiseon.png)
 
